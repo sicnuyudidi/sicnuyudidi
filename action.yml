@@ -1,0 +1,21 @@
+name: "Profile README Generator"
+description: "Generate PR contribution stats for profile README"
+inputs:
+  GH_USERNAME:
+    description: "Your GitHub username"
+    default: ""
+    required: true
+  GITHUB_TOKEN:
+    description: "GitHub token for API access"
+    default: ${{ github.token }}
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - ${{ inputs.GH_USERNAME }}
+
+branding:
+  icon: github
+  color: gray-dark

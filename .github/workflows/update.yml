@@ -1,0 +1,37 @@
+name: Update Profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"  # 每周日 UTC 00:00 (北京时间 08:00)
+  push:
+    branches:
+      - master
+
+env:
+  GITHUB_NAME: ${{ github.repository_owner }}
+  GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Profile
+        uses: ./
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push README
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          if git diff --quiet README.md; then
+            echo "No changes to README.md"
+            exit 0
+          fi
+          git add README.md
+          git commit -m "docs: update profile README [skip ci]"
+          git push
