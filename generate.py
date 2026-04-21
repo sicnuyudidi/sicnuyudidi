@@ -102,16 +102,19 @@ def build_readme(username, token):
     owned_table.append(f"| sum | | | | | {total_stars} |")
 
     # 4. Build contribution table grouped by repo
+    # Exclude PRs to the user's own repos (forks)
     print("Building contribution table...")
     repo_stats = defaultdict(lambda: {"count": 0, "first": None, "last": None})
     for pr in prs:
-        # repo_url from the URL: https://github.com/owner/repo/pull/123
         repo_url = pr.get("repository_url", "")
         if not repo_url:
             continue
-        # Extract owner/repo
         parts = repo_url.split("/")[-2:]
+        repo_owner = parts[0]
         repo_name = "/".join(parts)
+        # Skip PRs to the user's own repositories
+        if repo_owner.lower() == username.lower():
+            continue
         created = pr.get("created_at", "")[:10]
         html_url = pr.get("html_url", "")
 
