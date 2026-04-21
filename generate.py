@@ -37,7 +37,7 @@ def get_user_prs(username, token=None, max_pages=20):
             f"search/issues",
             token=token,
             params={
-                "q": f"type:pr author:{username}",
+                "q": f"type:pr is:merged author:{username}",
                 "sort": "created",
                 "order": "desc",
                 "per_page": per_page,
