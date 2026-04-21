@@ -36,5 +36,4 @@ jobs:
           fi
           git add README.md
           git commit -m "docs: update profile README [skip ci]"
-          git pull --rebase "https://${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" master
-          git push "https://${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:master
+          git push --force "https://${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:master
