@@ -21,8 +21,7 @@
 | ID  | REPO | FIRSTDATE | LASTEDATE | PRCOUNT |
 |-----|------|-----------|-----------|---------|
 | 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi) |
-| 2 | [sicnuyudidi/dify](https://github.com/sicnuyudidi/dify) | [2026-04-15](https://github.com/sicnuyudidi/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/sicnuyudidi/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/sicnuyudidi/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
-| 3 | [langgenius/dify](https://github.com/langgenius/dify) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
+| 2 | [langgenius/dify](https://github.com/langgenius/dify) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
 <!--END_SECTION:my_github-->
 
-*Last updated: 2026-04-21 10:02:03*
+*Last updated: 2026-04-21 10:58:23*
