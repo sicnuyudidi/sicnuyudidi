@@ -140,30 +140,34 @@ def build_readme(username, token):
     # 5. Assemble README
     owned_header = "| ID  | REPO | START | UPDATE | LANGUAGE | STARS |"
     owned_sep = "|-----|------|-------|--------|----------|-------|"
+    owned_body = "\n".join(owned_table)
 
     contrib_header = "| ID  | REPO | FIRSTDATE | LASTEDATE | PRCOUNT |"
     contrib_sep = "|-----|------|-----------|-----------|---------|"
+    contrib_body = "\n".join(contrib_table)
 
-    readme = f"""## Hi 👋
-
-**因上努力，果上随缘** .
-
-**From github: [{username}](https://github.com/{username})** .
-
-<!--START_SECTION:my_github-->
-## The repos I created
-{owned_header}
-{owned_sep}
-{'\n'.join(owned_table)}
-
-## The repos I contributed to
-{contrib_header}
-{contrib_sep}
-{'\n'.join(contrib_table)}
-<!--END_SECTION:my_github-->
-
-*Last updated: {now.strftime("%Y-%m-%d %H:%M:%S")}*
-"""
+    nl = "\n"
+    readme = (
+        f"## Hi 👋"
+        f"\n\n"
+        f"**因上努力，果上随缘** ."
+        f"\n\n"
+        f"**From github: [{username}](https://github.com/{username})** ."
+        f"\n\n"
+        f"<!--START_SECTION:my_github-->"
+        f"\n## The repos I created"
+        f"\n{owned_header}"
+        f"\n{owned_sep}"
+        f"\n{owned_body}"
+        f"\n\n## The repos I contributed to"
+        f"\n{contrib_header}"
+        f"\n{contrib_sep}"
+        f"\n{contrib_body}"
+        f"\n<!--END_SECTION:my_github-->"
+        f"\n\n"
+        f"*Last updated: {now.strftime('%Y-%m-%d %H:%M:%S')}*"
+        f"\n"
+    )
     return readme
 
 
