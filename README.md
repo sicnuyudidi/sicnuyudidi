@@ -8,21 +8,22 @@
 ## The repos I created
 | ID  | REPO | START | UPDATE | LANGUAGE | STARS |
 |-----|------|-------|--------|----------|-------|
-| 1 | [sicnuyudidi/llm-scaler](https://github.com/sicnuyudidi/llm-scaler) | 2026-08-20 | 2026-08-21 |  | 0 |
-| 2 | [sicnuyudidi/vllm-ascend](https://github.com/sicnuyudidi/vllm-ascend) | 2026-07-23 | 2026-07-30 |  | 0 |
-| 3 | [sicnuyudidi/open-code-review](https://github.com/sicnuyudidi/open-code-review) | 2026-07-10 | 2026-07-10 |  | 0 |
-| 4 | [sicnuyudidi/agent-as-a-judge](https://github.com/sicnuyudidi/agent-as-a-judge) | 2026-07-10 | 2026-03-28 |  | 0 |
-| 5 | [sicnuyudidi/mem0](https://github.com/sicnuyudidi/mem0) | 2026-06-08 | 2026-06-06 |  | 0 |
-| 6 | [sicnuyudidi/letta](https://github.com/sicnuyudidi/letta) | 2026-06-08 | 2026-05-14 |  | 0 |
-| 7 | [sicnuyudidi/TencentDB-Agent-Memory](https://github.com/sicnuyudidi/TencentDB-Agent-Memory) | 2026-06-08 | 2026-06-04 |  | 0 |
-| 8 | [sicnuyudidi/MemOS](https://github.com/sicnuyudidi/MemOS) | 2026-06-08 | 2026-06-08 |  | 0 |
-| 9 | [sicnuyudidi/sicnuyudidi](https://github.com/sicnuyudidi/sicnuyudidi) | 2026-04-21 | 2026-08-23 | Python | 0 |
-| 10 | [sicnuyudidi/nanobot-1](https://github.com/sicnuyudidi/nanobot-1) | 2026-04-15 | 2026-04-17 |  | 0 |
-| 11 | [sicnuyudidi/hermes-agent](https://github.com/sicnuyudidi/hermes-agent) | 2026-04-15 | 2026-05-12 |  | 0 |
-| 12 | [sicnuyudidi/nanobot](https://github.com/sicnuyudidi/nanobot) | 2026-04-15 | 2026-04-15 |  | 0 |
-| 13 | [sicnuyudidi/dify](https://github.com/sicnuyudidi/dify) | 2026-04-15 | 2026-04-21 | TypeScript | 0 |
-| 14 | [sicnuyudidi/for_gitalk](https://github.com/sicnuyudidi/for_gitalk) | 2021-08-28 | 2021-08-28 |  | 0 |
-| 15 | [sicnuyudidi/blog_comment](https://github.com/sicnuyudidi/blog_comment) | 2021-06-06 | 2021-06-06 |  | 0 |
+| 1 | [sicnuyudidi/dsh-plugin](https://github.com/sicnuyudidi/dsh-plugin) | 2026-09-03 | 2026-09-03 |  | 0 |
+| 2 | [sicnuyudidi/llm-scaler](https://github.com/sicnuyudidi/llm-scaler) | 2026-08-20 | 2026-08-21 |  | 0 |
+| 3 | [sicnuyudidi/vllm-ascend](https://github.com/sicnuyudidi/vllm-ascend) | 2026-07-23 | 2026-07-30 |  | 0 |
+| 4 | [sicnuyudidi/open-code-review](https://github.com/sicnuyudidi/open-code-review) | 2026-07-10 | 2026-07-10 |  | 0 |
+| 5 | [sicnuyudidi/agent-as-a-judge](https://github.com/sicnuyudidi/agent-as-a-judge) | 2026-07-10 | 2026-03-28 |  | 0 |
+| 6 | [sicnuyudidi/mem0](https://github.com/sicnuyudidi/mem0) | 2026-06-08 | 2026-06-06 |  | 0 |
+| 7 | [sicnuyudidi/letta](https://github.com/sicnuyudidi/letta) | 2026-06-08 | 2026-05-14 |  | 0 |
+| 8 | [sicnuyudidi/TencentDB-Agent-Memory](https://github.com/sicnuyudidi/TencentDB-Agent-Memory) | 2026-06-08 | 2026-06-04 |  | 0 |
+| 9 | [sicnuyudidi/MemOS](https://github.com/sicnuyudidi/MemOS) | 2026-06-08 | 2026-06-08 |  | 0 |
+| 10 | [sicnuyudidi/sicnuyudidi](https://github.com/sicnuyudidi/sicnuyudidi) | 2026-04-21 | 2026-08-30 | Python | 0 |
+| 11 | [sicnuyudidi/nanobot-1](https://github.com/sicnuyudidi/nanobot-1) | 2026-04-15 | 2026-04-17 |  | 0 |
+| 12 | [sicnuyudidi/hermes-agent](https://github.com/sicnuyudidi/hermes-agent) | 2026-04-15 | 2026-05-12 |  | 0 |
+| 13 | [sicnuyudidi/nanobot](https://github.com/sicnuyudidi/nanobot) | 2026-04-15 | 2026-04-15 |  | 0 |
+| 14 | [sicnuyudidi/dify](https://github.com/sicnuyudidi/dify) | 2026-04-15 | 2026-04-21 | TypeScript | 0 |
+| 15 | [sicnuyudidi/for_gitalk](https://github.com/sicnuyudidi/for_gitalk) | 2021-08-28 | 2021-08-28 |  | 0 |
+| 16 | [sicnuyudidi/blog_comment](https://github.com/sicnuyudidi/blog_comment) | 2021-06-06 | 2021-06-06 |  | 0 |
 | sum | | | | | 0 |
 
 ## The repos I contributed to
@@ -32,4 +33,4 @@
 | 2 | [langgenius/dify](https://github.com/langgenius/dify) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
 <!--END_SECTION:my_github-->
 
-*Last updated: 2026-08-30 04:29:45*
+*Last updated: 2026-09-06 03:40:43*
