@@ -8,30 +8,33 @@
 ## The repos I created
 | ID  | REPO | START | UPDATE | LANGUAGE | STARS |
 |-----|------|-------|--------|----------|-------|
-| 1 | [sicnuyudidi/sicnuyudidi.github.io](https://github.com/sicnuyudidi/sicnuyudidi.github.io) | 2026-10-09 | 2026-10-09 | Astro | 0 |
-| 2 | [sicnuyudidi/dsh-plugin](https://github.com/sicnuyudidi/dsh-plugin) | 2026-09-03 | 2026-09-03 |  | 0 |
-| 3 | [sicnuyudidi/llm-scaler](https://github.com/sicnuyudidi/llm-scaler) | 2026-08-20 | 2026-08-21 |  | 0 |
-| 4 | [sicnuyudidi/vllm-ascend](https://github.com/sicnuyudidi/vllm-ascend) | 2026-07-23 | 2026-07-30 |  | 0 |
-| 5 | [sicnuyudidi/open-code-review](https://github.com/sicnuyudidi/open-code-review) | 2026-07-10 | 2026-07-10 |  | 0 |
-| 6 | [sicnuyudidi/agent-as-a-judge](https://github.com/sicnuyudidi/agent-as-a-judge) | 2026-07-10 | 2026-03-28 |  | 0 |
-| 7 | [sicnuyudidi/mem0](https://github.com/sicnuyudidi/mem0) | 2026-06-08 | 2026-06-06 |  | 0 |
-| 8 | [sicnuyudidi/letta](https://github.com/sicnuyudidi/letta) | 2026-06-08 | 2026-05-14 |  | 0 |
-| 9 | [sicnuyudidi/TencentDB-Agent-Memory](https://github.com/sicnuyudidi/TencentDB-Agent-Memory) | 2026-06-08 | 2026-06-04 |  | 0 |
-| 10 | [sicnuyudidi/MemOS](https://github.com/sicnuyudidi/MemOS) | 2026-06-08 | 2026-06-08 |  | 0 |
-| 11 | [sicnuyudidi/sicnuyudidi](https://github.com/sicnuyudidi/sicnuyudidi) | 2026-04-21 | 2026-10-04 | Python | 0 |
-| 12 | [sicnuyudidi/nanobot-1](https://github.com/sicnuyudidi/nanobot-1) | 2026-04-15 | 2026-04-17 |  | 0 |
-| 13 | [sicnuyudidi/hermes-agent](https://github.com/sicnuyudidi/hermes-agent) | 2026-04-15 | 2026-05-12 |  | 0 |
+| 1 | [sicnuyudidi/new-api](https://github.com/sicnuyudidi/new-api) | 2026-10-16 | 2026-10-17 |  | 0 |
+| 2 | [sicnuyudidi/sicnuyudidi.github.io](https://github.com/sicnuyudidi/sicnuyudidi.github.io) | 2026-10-09 | 2026-10-09 | Astro | 0 |
+| 3 | [sicnuyudidi/dsh-plugin](https://github.com/sicnuyudidi/dsh-plugin) | 2026-09-03 | 2026-10-12 |  | 0 |
+| 4 | [sicnuyudidi/llm-scaler](https://github.com/sicnuyudidi/llm-scaler) | 2026-08-20 | 2026-08-21 |  | 0 |
+| 5 | [sicnuyudidi/vllm-ascend](https://github.com/sicnuyudidi/vllm-ascend) | 2026-07-23 | 2026-07-30 |  | 0 |
+| 6 | [sicnuyudidi/open-code-review](https://github.com/sicnuyudidi/open-code-review) | 2026-07-10 | 2026-07-10 |  | 0 |
+| 7 | [sicnuyudidi/agent-as-a-judge](https://github.com/sicnuyudidi/agent-as-a-judge) | 2026-07-10 | 2026-03-28 |  | 0 |
+| 8 | [sicnuyudidi/mem0](https://github.com/sicnuyudidi/mem0) | 2026-06-08 | 2026-06-06 |  | 0 |
+| 9 | [sicnuyudidi/letta](https://github.com/sicnuyudidi/letta) | 2026-06-08 | 2026-05-14 |  | 0 |
+| 10 | [sicnuyudidi/TencentDB-Agent-Memory](https://github.com/sicnuyudidi/TencentDB-Agent-Memory) | 2026-06-08 | 2026-06-04 |  | 0 |
+| 11 | [sicnuyudidi/MemOS](https://github.com/sicnuyudidi/MemOS) | 2026-06-08 | 2026-06-08 |  | 0 |
+| 12 | [sicnuyudidi/sicnuyudidi](https://github.com/sicnuyudidi/sicnuyudidi) | 2026-04-21 | 2026-10-11 | Python | 0 |
+| 13 | [sicnuyudidi/nanobot-1](https://github.com/sicnuyudidi/nanobot-1) | 2026-04-15 | 2026-04-17 |  | 0 |
 | 14 | [sicnuyudidi/nanobot](https://github.com/sicnuyudidi/nanobot) | 2026-04-15 | 2026-04-15 |  | 0 |
-| 15 | [sicnuyudidi/dify](https://github.com/sicnuyudidi/dify) | 2026-04-15 | 2026-04-21 | TypeScript | 0 |
-| 16 | [sicnuyudidi/for_gitalk](https://github.com/sicnuyudidi/for_gitalk) | 2021-08-28 | 2021-08-28 |  | 0 |
-| 17 | [sicnuyudidi/blog_comment](https://github.com/sicnuyudidi/blog_comment) | 2021-06-06 | 2021-06-06 |  | 0 |
+| 15 | [sicnuyudidi/hermes-agent](https://github.com/sicnuyudidi/hermes-agent) | 2026-04-15 | 2026-05-12 |  | 0 |
+| 16 | [sicnuyudidi/dify](https://github.com/sicnuyudidi/dify) | 2026-04-15 | 2026-04-21 | TypeScript | 0 |
+| 17 | [sicnuyudidi/for_gitalk](https://github.com/sicnuyudidi/for_gitalk) | 2021-08-28 | 2021-08-28 |  | 0 |
+| 18 | [sicnuyudidi/blog_comment](https://github.com/sicnuyudidi/blog_comment) | 2021-06-06 | 2021-06-06 |  | 0 |
 | sum | | | | | 0 |
 
 ## The repos I contributed to
 | ID  | REPO | FIRSTDATE | LASTEDATE | PRCOUNT |
 |-----|------|-----------|-----------|---------|
-| 1 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi) |
-| 2 | [langgenius/dify](https://github.com/langgenius/dify) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
+| 1 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | [2026-10-16](https://github.com/QuantumNous/new-api/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-10-16](https://github.com/QuantumNous/new-api/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/QuantumNous/new-api/pulls?q=is%3Apr+author%3Asicnuyudidi) |
+| 2 | [loongsuite/dsh-plugin](https://github.com/loongsuite/dsh-plugin) | [2026-09-03](https://github.com/loongsuite/dsh-plugin/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-09-03](https://github.com/loongsuite/dsh-plugin/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/loongsuite/dsh-plugin/pulls?q=is%3Apr+author%3Asicnuyudidi) |
+| 3 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Asicnuyudidi) |
+| 4 | [langgenius/dify](https://github.com/langgenius/dify) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-asc) | [2026-04-15](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi+is%3Aclosed+sort%3Acreated-desc) | [1](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Asicnuyudidi) |
 <!--END_SECTION:my_github-->
 
-*Last updated: 2026-10-11 04:51:04*
+*Last updated: 2026-10-18 03:43:31*
